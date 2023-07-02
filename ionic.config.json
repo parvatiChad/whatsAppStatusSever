@@ -1,0 +1,7 @@
+{
+  "name": "whatsAppStatusSever",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
